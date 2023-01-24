@@ -22,9 +22,9 @@ public class Main {
 		// deleteDepartamento(46);
 
 //		updateDepartamento(45);
-//		findDepartamento(45);
+		findDepartamento(10);
 
-		createEmpleado(45);
+		//createEmpleado(45);
 
 	}
 
